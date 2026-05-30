@@ -11,6 +11,11 @@ Clearing a stage grants a Campfire rest sequence, which revives fallen allies an
 
 ---
 
+### 📝 Requirement Changes & Justification
+**Addition of the Campfire System**: In the original proposal, there was no specific HP recovery mechanic documented between stages. However, during the implementation phase, I realized that clearing all multiple stages consecutively without any healing made the game disproportionately difficult. To fix this and balance the overall gameplay experience, I introduced the **Campfire System**, which recovers 50% of the party's Max HP and revives fallen allies upon clearing a stage.
+  
+---
+
 ### 🚀 How to start?
 This game is a console-based RPG built to run on the **.NET 10 environment**. You can run the game by downloading the project files using `git clone` and executing the `dotnet run` command in your terminal.
 
@@ -61,4 +66,4 @@ Finding a purely text-based interface somewhat lacking, I initially asked Gemini
 
 To capture a grand and atmospheric feeling for the introduction sequence instead, I revised my prompt and asked the LLM to generate an ASCII art of a castle with bats flying around it. Thanks to this adjustment, I successfully applied a wonderful castle imagery to the game's opening title screen.
 
-I first drafted the entire content of the README.md file in Korean and utilized the LLM to translate it into English. Additionally, during the documentation process, I asked the prompt, "Is there a way to change the font size or add lines under the main titles in the editor window?" In response, the LLM taught me how to use the `#` symbol for headers and `---` for horizontal lines.
+I first drafted the entire content of the README.md file in Korean and utilized the LLM to translate it into English. Additionally, during the documentation process, I asked the prompt, "Is there a way to change the font size or add lines under the main titles in the editor window?" In response, the LLM taught me how to use the '*', `#` symbol and `---`.
