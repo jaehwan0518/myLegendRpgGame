@@ -1,4 +1,4 @@
-# ⚔️ The Legend of Heroes ~CLI RPG~
+# ⚔️ The Legend of Heroes "CLI RPG"
 
 This is a game where a party of heroes progresses through multiple stages to defeat the Dark Lord and restore peace to the world.
 
@@ -60,3 +60,5 @@ Please **WAIT until all text and combat animations have fully finished typing ou
 Finding a purely text-based interface somewhat lacking, I initially asked Gemini to generate a text-based ASCII art of a slime to display next to the character states. However, the output did not turn out as expected and felt out of place. 
 
 To capture a grand and atmospheric feeling for the introduction sequence instead, I revised my prompt and asked the LLM to generate an ASCII art of a castle with bats flying around it. Thanks to this adjustment, I successfully applied a wonderful castle imagery to the game's opening title screen.
+
+I first drafted the entire content of the README.md file in Korean and utilized the LLM to translate it into English. Additionally, during the documentation process, I asked the prompt, "Is there a way to change the font size or add lines under the main titles in the editor window?" In response, the LLM taught me how to use the `#` symbol for headers and `---` for horizontal lines.
