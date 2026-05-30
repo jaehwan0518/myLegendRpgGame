@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N5kU+NBE2YU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\재환\\CS20200-Main\\RpgGame\\MyRpgGame.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\재환\\.nuget\\packages\\fsharp.core\\10.0.106\\fsharp.core.10.0.106.nupkg.sha512"
+  ],
+  "logs": []
+}

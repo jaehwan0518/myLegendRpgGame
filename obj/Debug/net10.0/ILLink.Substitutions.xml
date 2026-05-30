@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="MyRpgGame">
+    <resource name="FSharpSignatureData.MyRpgGame" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.MyRpgGame" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.MyRpgGame" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.MyRpgGame" action="remove"></resource>
+    <resource name="FSharpOptimizationData.MyRpgGame" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.MyRpgGame" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.MyRpgGame" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.MyRpgGame" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.MyRpgGame" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.MyRpgGame" action="remove"></resource>
+  </assembly>
+</linker>
